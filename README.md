@@ -1,2 +1,2 @@
 # Learning
- Primeiro Repositório criado para mini
+ Primeiro Repositório criado para mini projetos
